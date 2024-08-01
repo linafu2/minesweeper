@@ -1,5 +1,5 @@
 # Minesweeper
-A logic puzzle game featuring a grid with clickable tiles that could be hidden mines.
+A logic puzzle game featuring a grid of clickable tiles with hidden mines.
 
 This was made in Java using [Northeastern University's Image Library](https://course.ccs.neu.edu/cs2510h/image-doc.html) for Northeastern's CS2510 course. By instructor policy, source code can be accessed only by request.
 
